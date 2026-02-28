@@ -39,7 +39,7 @@ source code
 
 # Strange buttons
 > [!WARNING] 
-NOT OWNED Just a sample from [@moeru-ai] 
+NOT OWNED Just a sample from [moeru-ai](https://github.com/moeru-ai/airi)
 
 <a href="https://crowdin.com/project/proj-airi" target="_blank" rel="nofollow"><img style="width: 140px; height: 40px;" src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" srcset="https://badges.crowdin.net/badge/light/crowdin-on-dark.png 1x, https://badges.crowdin.net/badge/light/crowdin-on-dark@2x.png 2x" alt="Crowdin | Agile localization for tech companies" width="140" height="40" /></a>
 > [!SOURCE]
