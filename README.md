@@ -4,29 +4,45 @@ this is just training myself in how to make markdowns that look good. NO ID DO N
 > [!warning] 
 TESTING FIELDS
 ______
+# Quotations with colors
+> Note
 
-# Sample One
-> Quotations
+### Blue
+> [!NOTE] 
+Blue Quote
+use case `for quoting notes`
 
+Soure code 
+```markdown
 > [!NOTE]
->
-> We've got a whole dedicated organization [@proj-airi](https://github.com/proj-airi) for all the sub-projects born from Project AIRI. Check it out!
->
-> RAG, memory system, embedded database, icons, Live2D utilities, and more!
+```
 
+### Green
+> [!TIP] 
+Green Quote
+use case `for Tips`
+
+source code
+```markdown
 > [!TIP]
-> We have a translation project on [Crowdin](https://crowdin.com/project/proj-airi). If you find any inaccurate translations, feel free to contribute improvements there.
-> <a href="https://crowdin.com/project/proj-airi" target="_blank" rel="nofollow"><img style="width: 140px; height: 40px;" src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" srcset="https://badges.crowdin.net/badge/light/crowdin-on-dark.png 1x, https://badges.crowdin.net/badge/light/crowdin-on-dark@2x.png 2x" alt="Crowdin | Agile localization for tech companies" width="140" height="40" /></a>
+```
 
-`source code`
-```code
-> [!NOTE]
->
-> We've got a whole dedicated organization [@proj-airi](https://github.com/proj-airi) for all the sub-projects born from Project AIRI. Check it out!
->
-> RAG, memory system, embedded database, icons, Live2D utilities, and more!
+### orange 
+> [!WARNING]
+warning Quote
+use case `for warning`
 
-> [!TIP]
-> We have a translation project on [Crowdin](https://crowdin.com/project/proj-airi). If you find any inaccurate translations, feel free to contribute improvements there.
-> <a href="https://crowdin.com/project/proj-airi" target="_blank" rel="nofollow"><img style="width: 140px; height: 40px;" src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" srcset="https://badges.crowdin.net/badge/light/crowdin-on-dark.png 1x, https://badges.crowdin.net/badge/light/crowdin-on-dark@2x.png 2x" alt="Crowdin | Agile localization for tech companies" width="140" height="40" /></a>
+source code
+```markdown
+> [!WARNING]
+```
+
+# Strange buttons
+> [!WARNING] 
+NOT OWNED Just a sample from [@moeru-ai] 
+
+<a href="https://crowdin.com/project/proj-airi" target="_blank" rel="nofollow"><img style="width: 140px; height: 40px;" src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" srcset="https://badges.crowdin.net/badge/light/crowdin-on-dark.png 1x, https://badges.crowdin.net/badge/light/crowdin-on-dark@2x.png 2x" alt="Crowdin | Agile localization for tech companies" width="140" height="40" /></a>
+> [!SOURCE]
+ ```code
+<a href="https://crowdin.com/project/proj-airi" target="_blank" rel="nofollow"><img style="width: 140px; height: 40px;" src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" srcset="https://badges.crowdin.net/badge/light/crowdin-on-dark.png 1x, https://badges.crowdin.net/badge/light/crowdin-on-dark@2x.png 2x" alt="Crowdin | Agile localization for tech companies" width="140" height="40" /></a>
 ```
